@@ -70,8 +70,5 @@ For visualizing the stock data, we use matplotlib to generate line charts
 ### 4. **Streamlit Front-End**
 Streamlit is used to make the project interactive and user-friendly:
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Thanks to the creators of `yfinance`, `pandas`, `matplotlib`, and `streamlit` for their open-source contributions that made this project possible.
